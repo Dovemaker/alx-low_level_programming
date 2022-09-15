@@ -14,8 +14,3 @@ int main(void)
 
 	return (0);
 }
-^c
-^C
--w
-C-u
-C-/
