@@ -13,20 +13,18 @@
  *
  *      *
  *
- *       * Description: just a lone dog struct in a big kitty world
+ *       * Description : just a lone dog struct in a big kitty world
  */
-
-struct dog
 
 {
 
-		char *name;
+	char *name;
 
-			float age;
+	float age;
 
-				char *owner;
+	char *owner;
 
-};
+}
 
 typedef struct dog dog_t;
 
